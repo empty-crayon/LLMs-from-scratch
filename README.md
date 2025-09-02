@@ -14,4 +14,5 @@ A minimal PyTorch implementation of a GPT-2-style decoder-only Transformer. It i
 - No KV cache, weight decay schedule, or attention dropout (kept tiny & clear).
 - Positional embedding is learned; rotary or ALiBi not included.
 
-## Todos: training, add batching, checkpointing, LR warmup/decay, and proper tokenization.
+## Todos: 
+Training, add batching, checkpointing, LR warmup/decay, and proper tokenization.
